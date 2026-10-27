@@ -1,0 +1,5 @@
+export const QUIZ_STAGES = {
+	START: 'START',
+	IN_PROGRESS: 'IN_PROGRESS',
+	ENDED: 'ENDED',
+};
